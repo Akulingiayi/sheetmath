@@ -1,0 +1,38 @@
+{
+  "name": "Mathematics",
+  "short_name": "Sheetmath",
+  "start_url": "https://www.sheetmath.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Sheetmath-Merupakan situs yang membahas tentang Matematika seperti Matriks, kalkulus, logika, fungsi, integral dan turunan dalam Matematika.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Gz9dSMmJcuQ/Xh0GIjQMkhI/AAAAAAAADRU/8t4MEKlcsq85QsPV2S_PReag2tQrLZVKgCLcBGAsYHQ/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-q_fCtfqqrBU/Xhz96bNPrAI/AAAAAAAADPw/qHRfuKvrpQ4atbIY72c4hH_lwtomJd1qwCLcBGAsYHQ/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s96/icon_kta.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gaYSrylluew/Xhz_XnjPW0I/AAAAAAAADQQ/zrdBV-9GgV0WESsetYSAyF6o80pyXNU6ACLcBGAsYHQ/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cf31z5i6suo/Xh0Ia4MWgpI/AAAAAAAADRg/IJpaz4nVgMQKXLuSTSrL-3HOcnbSTT2-QCLcBGAsYHQ/s168/Logo%2BBlog.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1wjY97_4LkI/Xh0A5ruSEBI/AAAAAAAADQ0/5i6dsVJAFYAwODgoA9giJJXkE4t8JN7pwCLcBGAsYHQ/s192/android-icon-192x192.png.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KCLt0XOyZw0/Xh0JhssQMOI/AAAAAAAADRs/-BzXXCC2n4U_XNPbpF5Samfni7brtmRuwCLcBGAsYHQ/s512/Ikon%2B512X512%2B%25281%2529.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
